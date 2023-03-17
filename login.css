@@ -1,0 +1,17 @@
+.wrapper {
+  max-width: 400px;
+  margin: 24px auto;
+
+}
+
+input, select {
+  margin-bottom: 6px;
+}
+
+h3{
+  font-weight: 500;
+}
+body{
+  font-family: bold;
+
+}
